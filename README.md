@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Zuri
 - 👀 I’m interested in programming, security and cloud!
-- 🌱 I’m currently learning about Cloud and Cybersecurity.
+- 🌱 I’m currently learning about cloud(DevOps,Git, AWS)and cybersecurity
 - 💞️ I’m looking to collaborate on N/A atm.
 - 📫 How to reach me: on GitHub!
 
